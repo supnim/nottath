@@ -34,7 +34,7 @@ const HTML = `<!DOCTYPE html>
 </head>
 <body>
   <p class="name">nottath.com</p>
-  <a class="twitter" href="https://x.com/nottath" target="_blank" rel="noopener">@nottath</a>
+  <a class="twitter" href="https://x.com/sup_nim" target="_blank" rel="noopener">@sup_nim</a>
 </body>
 </html>`;
 
