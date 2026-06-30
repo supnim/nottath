@@ -2,5 +2,10 @@ name = "matat"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
+routes = [
+  { pattern = "nottath.com", custom_domain = true },
+  { pattern = "www.nottath.com", custom_domain = true },
+]
+
 [observability]
 enabled = true
